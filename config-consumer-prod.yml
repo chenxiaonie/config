@@ -1,1 +1,6 @@
 
+info: 
+  profile: prod
+
+name: hello
+words: 'hello man!!'
